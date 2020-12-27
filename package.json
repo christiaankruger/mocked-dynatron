@@ -1,0 +1,12 @@
+{
+  "name": "mocked-dynatron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:christiaankruger/mocked-dynatron.git",
+  "author": "Christiaan Kruger <c@hristiaan.co.za>",
+  "license": "MIT",
+  "dependencies": {
+    "dynatron": "^3.1.7",
+    "typescript": "^4.1.3"
+  }
+}
